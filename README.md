@@ -2,13 +2,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🌟 About Me
 
-I'm **Pappu Kumar Ravidas**, a **BTech CSE Student** and passionate Frontend Developer 🚀  
+B.Tech CSE 👨‍🎓 | Harvard Aspire Leaders Program Fellow 🌍  
+Future Software Engineer 💻  
+Focused on DSA, Projects & Open Source 🚀  
+Consistency > Motivation 🎓❤️
+
+---
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
----
 
 <!-- 💻 Coding GIF -->
 <div align="center">
@@ -23,19 +27,19 @@ I'm **Pappu Kumar Ravidas**, a **BTech CSE Student** and passionate Frontend Dev
 
 <a href="https://www.linkedin.com/in/pappuravidas47">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/iamhappiness47">
 <img src="https://skillicons.dev/icons?i=instagram&theme=light" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://discord.com/users/pappuravidas47">
 <img src="https://skillicons.dev/icons?i=discord&theme=light" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:pappurvidascs47@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 </p>
 
