@@ -4,9 +4,9 @@
 
 ## 🌟 About Me
 
-B.Tech CSE 👨‍🎓 | Harvard Aspire Leaders Program Fellow 🌍  
-Future Software Engineer 💻  
-Focused on DSA, Projects & Open Source 🚀  
+B.Tech CSE | Harvard Aspire Leaders Program Fellow |
+Future Software Engineer
+Focused on DSA, Projects & Open Source  
 Consistency > Motivation 🎓❤️
 
 ---
@@ -29,7 +29,7 @@ Consistency > Motivation 🎓❤️
 <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/iamhappiness47">
+<a href="https://www.instagram.com/iamhappiness74">
 <img src="https://skillicons.dev/icons?i=instagram&theme=light" />
 </a>&nbsp;&nbsp;&nbsp;
 
